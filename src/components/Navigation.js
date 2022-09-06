@@ -2,6 +2,9 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 
 const Navigation = () => {
+    
+    // console.log(window.location.pathname);
+    
     return (
 
 
