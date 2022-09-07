@@ -13,7 +13,7 @@ const Project3 = () => {
             <Logo/>
             <Project projectNumber={2}/>
             <Buttons 
-            left={"/project-3"}
+            left={"/project-2"}
             right={"/project-4"}/>
         </div>
      </main>
